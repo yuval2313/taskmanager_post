@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "privateKey",
+    "PGPASSWORD":"pgpassword"
+}

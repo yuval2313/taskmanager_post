@@ -1,0 +1,9 @@
+{
+    "jwtPrivateKey": "1234",
+    "dbURL": "",
+    "PGHOST":"localhost",
+    "PGUSER":"postgres",
+    "PGDATABASE":"task_manager_test",
+    "PGPASSWORD":"",
+    "PGPORT":"5432"
+}
